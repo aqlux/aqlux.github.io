@@ -1,1 +1,0 @@
-// Simulated React bundle JS content
